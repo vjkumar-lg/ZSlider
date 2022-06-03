@@ -1,0 +1,6 @@
+framework module ZSlider {
+  umbrella header "ZSlider-umbrella.h"
+
+  export *
+  module * { export * }
+}

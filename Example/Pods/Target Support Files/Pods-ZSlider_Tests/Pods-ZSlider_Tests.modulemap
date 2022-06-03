@@ -1,0 +1,6 @@
+framework module Pods_ZSlider_Tests {
+  umbrella header "Pods-ZSlider_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

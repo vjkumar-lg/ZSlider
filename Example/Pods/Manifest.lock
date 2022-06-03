@@ -1,0 +1,16 @@
+PODS:
+  - ZSlider (0.1.0)
+
+DEPENDENCIES:
+  - ZSlider (from `../`)
+
+EXTERNAL SOURCES:
+  ZSlider:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZSlider: 720d180cc12b2fd0f811da3da5b0d79bdaf117fd
+
+PODFILE CHECKSUM: f67157cafa9ebd7866003d5f7ef91244bf80c6f0
+
+COCOAPODS: 1.11.3
